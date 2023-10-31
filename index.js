@@ -52,19 +52,19 @@ function promptUser() {
       {
         type: "input",
         message:
-          "Choose text color (Enter a hexadecimal number or color keyword)",
+          "Choose the font's color (Enter a hexadecimal number or color keyword)",
         name: "font",
       },
       {
         type: "list",
         message: "What shape would you like the logo to render?",
-        choices: ["Triangle", "Square", "Circle"],
+        choices: ["triangle", "square", "circle"],
         name: "shape",
       },
       {
         type: "input",
         message:
-          "Choose shapes color (Enter color keyword OR a hexadecimal number)",
+          "Choose the shape's color (Enter color keyword OR a hexadecimal number)",
         name: "background",
       },
     ])
