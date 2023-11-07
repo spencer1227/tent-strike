@@ -29,12 +29,14 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Mock Up
-
+I wanted to create a simple 3 character logo to display
 
 ## Technology Used
-
+Javascript
+node.js v8.2.4
 
 ## Links 
+https://github.com/spencer1227/tent-strike.git
 
-
-## Screenshot
+## Video
+https://drive.google.com/file/d/1W-uJt_wHxDJiCi8QJ-RXmSsFRTgSYrxk/view
