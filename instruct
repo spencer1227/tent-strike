@@ -3,3 +3,6 @@ npm cache verify.
 npm start -- --reset-cache.
 (now manually delete npm/cache folder)
 npm install npm@latest -g
+
+npm init
+npm i (external)
